@@ -1,3 +1,5 @@
+wrote to help someone understand a game puzzle system
+
 # game-puzzle-button
 Simple button on/off puzzle
 
